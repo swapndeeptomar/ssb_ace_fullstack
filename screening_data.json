@@ -1,0 +1,46 @@
+{
+  "OIR": [
+    {"q": "Which number comes next: 2, 6, 12, 20, 30, ?", "a": "40", "b": "42", "c": "44", "d": "36", "ans": "B"},
+    {"q": "Bird is to Fly as Fish is to?", "a": "Water", "b": "Swim", "c": "River", "d": "Gill", "ans": "B"},
+    {"q": "Find the odd one out:", "a": "Car", "b": "Bus", "c": "Train", "d": "Wheel", "ans": "D"},
+    {"q": "If BAT = 23, then CAT = ?", "a": "24", "b": "23", "c": "25", "d": "26", "ans": "A"},
+    {"q": "Doctor : Patient :: Lawyer : ?", "a": "Judge", "b": "Court", "c": "Client", "d": "Criminal", "ans": "C"},
+    {"q": "Rearrange 'R A E H T' to form a body part.", "a": "HEART", "b": "EARTH", "c": "TEARH", "d": "HATER", "ans": "A"},
+    {"q": "Which word cannot be formed from 'INTELLIGENCE'?", "a": "TILL", "b": "TELL", "c": "GENTLE", "d": "CANCEL", "ans": "D"},
+    {"q": "5, 10, 15, 20, ...", "a": "22", "b": "24", "c": "25", "d": "30", "ans": "C"},
+    {"q": "A is B's sister. C is B's mother. What is A to C?", "a": "Mother", "b": "Daughter", "c": "Aunt", "d": "Niece", "ans": "B"},
+    {"q": "Select the synonym of 'HAPPY'", "a": "Sad", "b": "Joyful", "c": "Angry", "d": "Tired", "ans": "B"}
+  ],
+  "PPDT": [
+    {
+      "title": "Village Scene",
+      "image_url": "/ppdt_sample.jpg",
+      "theme": "Rural development, helping villagers, organizing a health camp or education drive."
+    }
+  ],
+  "TAT": [
+    {
+      "title": "Rescue Operation",
+      "image_url": "/tat_1.jpg",
+      "theme": "Bravery, resourcefulness, saving lives during a accident,Decision making."
+    },
+    {
+      "title": "Group Discussion",
+      "image_url": "/tat_2.jpg",
+      "theme": "Teamwork, contributing ideas,Innovation,Leadership,Discovery, Science, Medicine."
+    },
+    {
+      "title": "Blank Slide",
+      "image_url": "/blank_slide.jpg",
+      "theme": "Imagination, positivity, future goals,Creativity."
+    }
+  ],
+  
+  "SDT": [
+    {"prompt": "What do your Parents think of you?", "expected": "Obedience, Support, Trust, Love"},
+    {"prompt": "What do your Teachers/Employers think of you?", "expected": "Punctuality, Dedication, Discipline"},
+    {"prompt": "What do your Friends think of you?", "expected": "Reliability, Fun, Helping nature"},
+    {"prompt": "What do you think of yourself?", "expected": "Self-awareness, Confidence, honesty"},
+    {"prompt": "What kind of person do you want to become?", "expected": "Ambition, Service to nation, Improvement"}
+  ]
+}

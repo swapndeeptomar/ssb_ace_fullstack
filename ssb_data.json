@@ -1,0 +1,260 @@
+{
+  "stage_2_psych": {
+    "WAT": [
+      {
+        "word": "CAREFUL",
+        "ideal_response_hint": "A careful approach gives consistent results.",
+        "time_limit": 15
+      },
+      {
+        "word": "COMPANY",
+        "ideal_response_hint": "Good company makes life better.",
+        "time_limit": 15
+      },
+      {
+        "word": "DIFFICULT",
+        "ideal_response_hint": "Difficulties are stepping stones to success.",
+        "time_limit": 15
+      },
+      {
+        "word": "LEADER",
+        "ideal_response_hint": "A leader leads by example.",
+        "time_limit": 15
+      },
+      {
+        "word": "RISK",
+        "ideal_response_hint": "Calculated risks lead to success.",
+        "time_limit": 15
+      },
+      {
+        "word": "ATTACK",
+        "ideal_response_hint": "Attack on problems leads to solutions.",
+        "time_limit": 15
+      },
+      {
+        "word": "DEFEAT",
+        "ideal_response_hint": "Defeat is a lesson for improvement.",
+        "time_limit": 15
+      },
+      {
+        "word": "SISTER",
+        "ideal_response_hint": "Elder sister guides the younger ones.",
+        "time_limit": 15
+      },
+      {
+        "word": "BOSS",
+        "ideal_response_hint": "A boss inspires the team.",
+        "time_limit": 15
+      },
+      {
+        "word": "INITIATIVE",
+        "ideal_response_hint": "Taking initiative solves half the problem.",
+        "time_limit": 15
+      },
+      {
+        "word": "IMPOSSIBLE",
+        "ideal_response_hint": "Nothing is impossible for a determined mind.",
+        "time_limit": 15
+      },
+      {
+        "word": "ORDER",
+        "ideal_response_hint": "Discipline and order bring efficiency.",
+        "time_limit": 15
+      },
+      {
+        "word": "MOTHER",
+        "ideal_response_hint": "Mother is the first teacher of a child.",
+        "time_limit": 15
+      },
+      {
+        "word": "FAILURE",
+        "ideal_response_hint": "Failure teaches us how to succeed.",
+        "time_limit": 15
+      },
+      {
+        "word": "TEAM",
+        "ideal_response_hint": "Teamwork divides the effort and multiplies the effect.",
+        "time_limit": 15
+      }
+    ],
+    "SRT": [
+      {
+        "situation": "He and his friend are standing on a bridge over a river. His friend who does not know swimming, suddenly falls down. He...",
+        "ideal_action_keywords": ["jumps", "swims", "saves", "first aid"],
+        "time_limit": 30
+      },
+      {
+        "situation": "While going to attend an important meeting, he saw a ghastly accident between an auto rickshaw and a tonga. He...",
+        "ideal_action_keywords": ["ambulance", "hospital", "admit", "attend meeting"],
+        "time_limit": 30
+      },
+      {
+        "situation": "There is a flood in his village and many houses have fallen down. His house is about to collapse and it is late at night. He...",
+        "ideal_action_keywords": ["evacuate family", "save valuables", "warn neighbors", "help others"],
+        "time_limit": 30
+      },
+      {
+        "situation": "He was going for an exam and saw a person lying injured on the road. He...",
+        "ideal_action_keywords": ["first aid", "hospital", "inform police", "attend exam"],
+        "time_limit": 30
+      },
+      {
+        "situation": "His captain was injured during a crucial match. He...",
+        "ideal_action_keywords": ["took charge", "motivated team", "played strategy", "won match"],
+        "time_limit": 30
+      },
+      {
+        "situation": "He enters his room and sees a snake moving under his bed. He...",
+        "ideal_action_keywords": ["remains calm", "allows snake to pass", "alerts others", "safe distance"],
+        "time_limit": 30
+      },
+      {
+        "situation": "He is leading a hiking trip and two members want to return halfway. He...",
+        "ideal_action_keywords": ["motivate", "convince", "help them", "complete hike"],
+        "time_limit": 30
+      },
+      {
+        "situation": "His parents are forcing him to marry against his wish. He...",
+        "ideal_action_keywords": ["talk to parents", "convince", "explain career goals", "gain support"],
+        "time_limit": 30
+      },
+      {
+        "situation": "He finds a purse lying on the road with money and ID card. He...",
+        "ideal_action_keywords": ["pick up", "check ID", "contact owner", "return safely"],
+        "time_limit": 30
+      },
+      {
+        "situation": "His boss shouted at him for a mistake he didn't commit. He...",
+        "ideal_action_keywords": ["calmly explain", "show proof", "maintain discipline", "resolve misunderstanding"],
+        "time_limit": 30
+      },
+      {
+        "situation": "He was leading a project and his team member fell sick just before the deadline. He...",
+        "ideal_action_keywords": ["took extra load", "motivated team", "redistributed work", "finished on time"],
+        "time_limit": 30
+      },
+      {
+        "situation": "He saw smoke coming out of a neighbor's house at midnight. He...",
+        "ideal_action_keywords": ["raised alarm", "called fire brigade", "helped evacuate", "poured water"],
+        "time_limit": 30
+      }
+    ]
+  },
+"personal_interview": {
+    
+    "work_gen_1": {
+      "intro": "Please tell me about your job, duties, likes/dislikes and reasons for changing the job (if any).",
+      "expected_points": ["duties", "achievements", "working conditions", "satisfaction"],
+      "criteria": "Professionalism, Sense of Responsibility, Job Satisfaction"
+    },
+    "work_gen_2": {
+      "intro": "How do you handle pressure or tight deadlines at your workplace?",
+      "expected_points": ["planning", "prioritizing", "calmness", "execution"],
+      "criteria": "Stress Management, Planning, Organizing Ability"
+    },
+    "work_pro_3": {
+      "intro": "Why do you want to leave your current well-paying job to join the Defence Forces?",
+      "expected_points": "passion, service over money, adventure, disciplined life",
+      "criteria": "Motivation, Determination, Values"
+    },
+    "work_pro_4": {
+      "intro": "Describe a situation at your workplace where you took the initiative to solve a critical problem.",
+      "expected_points": "proactive approach, problem solving, leadership, impact",
+      "criteria": "Initiative, Effective Intelligence"
+    },
+    "work_pro_5": {
+      "intro": "How do you manage your finances? Do you contribute to your family expenses?",
+      "expected_points": "financial planning, savings, responsibility towards family",
+      "criteria": "Sense of Responsibility, Planning"
+    },
+
+
+    "edu_gen_1": {
+      "intro": "Tell me about your education from Class VIII onwards. Which subjects you liked/disliked and why?",
+      "expected_points": ["grades", "favorite subjects", "teachers", "sports participation", "friends"],
+      "criteria": "Academics, Honesty, Clarity"
+    },
+    "edu_gen_2": {
+      "intro": "Tell me about your academic performance starting from 10th class. Mention your favorite subjects and teachers.",
+      "expected_points": "academic consistency, honesty about grades, respect for teachers, clear reasoning for subject choice",
+      "criteria": "Academics, Honesty, Respect"
+    },
+    "edu_gen_3": {
+      "intro": "Why did you choose your specific stream (Science/Arts/Commerce) after 10th class?",
+      "expected_points": "interest, career goal, self-decision, passion",
+      "criteria": "Self Awareness, Decision Making"
+    },
+    "edu_fresher_4": {
+      "intro": "You seem to have a gap in your grades during 12th standard. What was the reason?",
+      "expected_points": "honesty, accepting mistakes, bouncing back, improvement",
+      "criteria": "Honesty, Resilience, Courage"
+    },
+    "edu_fresher_5": {
+      "intro": "Who was your favorite teacher in college and why? Also, tell me one teacher you didn't like.",
+      "expected_points": "respect, objective reasoning, maturity, no bad-mouthing",
+      "criteria": "Social Adaptability, Attitude"
+    },
+
+
+    "internship_1": {
+      "intro": "Tell me about the project you handled during your internship. What was your specific role?",
+      "expected_points": "technical knowledge, teamwork, responsibility, outcome",
+      "criteria": "Effective Intelligence, Organizing Ability"
+    },
+    "internship_2": {
+      "intro": "Did you face any conflict or disagreement with your mentor or peers during your internship? How did you handle it?",
+      "expected_points": "communication, conflict resolution, patience, professional behavior",
+      "criteria": "Social Adaptability, Cooperation"
+    },
+    "internship_3": {
+      "intro": "How is the corporate work culture different from your college life based on your internship experience?",
+      "expected_points": "responsibility, punctuality, deadlines, professional etiquette",
+      "criteria": "Observation, Maturity"
+    },
+
+
+    "family_1": {
+      "intro": "Tell me about your family, your parents' occupation, and how you spend time together.",
+      "expected_points": ["father occupation", "mother occupation", "siblings", "support system", "activities"],
+      "criteria": "Family Bonding, Responsibility"
+    },
+    "family_2": {
+      "intro": "Tell me about your relationship with your parents and siblings. Whom are you closest to?",
+      "expected_points": "family support, transparency, helping nature, responsibility at home",
+      "criteria": "Sense of Responsibility, Emotional Stability"
+    },
+    "family_3": {
+      "intro": "How do you spend your weekends? Do you help in household chores?",
+      "expected_points": "productive time, helping nature, balance",
+      "criteria": "Sense of Responsibility, Liveliness"
+    },
+
+
+    "general_1": {
+      "intro": "How do you spend your spare time? What are your hobbies and interests?",
+      "expected_points": "productive use of time, outdoor activities, reading, team games, creativity",
+      "criteria": "Liveliness, Social Adaptability, Organizing Ability"
+    },
+    "general_2": {
+      "intro": "Why do you want to join the Defence Forces despite having other career options?",
+      "expected_points": "service to nation, adventure, pride in uniform, disciplined life, not just for money",
+      "criteria": "Motivation, Determination, Patriotism"
+    },
+    "general_3": {
+      "intro": "Tell me about a situation where you organized an event or a trip with friends.",
+      "expected_points": "planning, coordination, handling money, solving sudden problems, leadership",
+      "criteria": "Organizing Ability, Initiative, Cooperation"
+    },
+    "general_4": {
+      "intro": "What are the major headlines in today's newspaper?",
+      "expected_points": "awareness, reading habit, current affairs",
+      "criteria": "General Awareness, Alertness"
+    },
+    "pi_intro_special": {
+      "intro": "Please give a brief introduction about yourself.",
+      "expected_points": "name, place, family details, education, achievements, hobbies",
+      "criteria": "Structure check: Name, Origin, Education, Family Background, Hobbies and Achievements."
+    }
+  }
+  
+}
